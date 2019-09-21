@@ -1,1 +1,2 @@
+#コメントアウト
 print("hello world")
